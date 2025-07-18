@@ -1,0 +1,1 @@
+gcc main.c dicsoseglista.c jatek.c kepernyofunkciok.c lista.c mentes.c menu.c rajzol.c -o milliomos
