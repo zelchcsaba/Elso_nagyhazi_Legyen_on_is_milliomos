@@ -1,0 +1,14 @@
+# Binárisok és build mappák
+bin/
+obj/
+*.exe
+*.o
+
+# IDE fájlok (pl. Code::Blocks)
+*.layout
+*.depend
+*.cbp
+
+# Egyéb fájlok
+*.log
+*.tmp
